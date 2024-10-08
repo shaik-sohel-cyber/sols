@@ -1,4 +1,4 @@
 # sols
 this is my repository
 <br>
-Author-shaik sohel
+Author-sohel(GRIET)
